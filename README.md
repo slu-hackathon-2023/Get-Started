@@ -22,4 +22,13 @@ Choose from Any of the following issues and create a PR to merge your branch int
 
 ## Option 2: Solve a real-time problem.
 
-Problem: Currently when students write a multiple choice exam using OMR sheets (Scantron sheets), the evaluation is done using a device called Scantron, which takes a  key sheet and and student answer sheet as input and scores accordingly. This is a tedious and time-consuming process. 
+Currently when students write a multiple choice exams using OMR sheets (Scantron sheets), the evaluation is done using a device called Scantron, which takes a key sheet and student answer sheet as input and scores accordingly. This is a tedious and time-consuming process. We want to find a solution to solve this problem.
+
+A software solution is needed to solve this. Below is the requirement:
+1. The software takes 2 inputs:
+    a. One key sheet (answer sheet) as an image or scanned PDF (choose only one format for your solution)
+    b. one or more student answer sheets in the same format as key sheet
+2. It compares all the student answer sheets with the key sheet
+3. Writes the score on the respective student's answer sheet. 
+
+For the purpose of Hackathon, we do not want you to build a GUI for this application. Only the core module which can compare the
