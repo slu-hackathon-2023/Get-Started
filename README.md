@@ -1,4 +1,4 @@
-# Instructions
+# Hackathon
 
 ## Title: Build an automated Scantron Grading Software
 
