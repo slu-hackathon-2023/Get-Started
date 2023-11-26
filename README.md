@@ -1,13 +1,6 @@
 # Instructions
 
-You have two options to participate in this Hackathon. Click on the links to learn more about the problems.
-
-
-[Option 1: Build an automated Scantron Grading Software]()  
-[Option 2: Solve issues on existing repositories]()  
-
-
-## Option 1: Build an automated Scantron Grading Software
+## Title: Build an automated Scantron Grading Software
 
 ### Problem:
 Currently, grading multiple choice exams that use Scantron answer sheets (OMR sheets) is a manual, tedious, and time-consuming process. Teachers must use a separate Scantron device to read the key answer sheet and each student's answer sheet to calculate grades. This takes a significant amount of time and effort.
@@ -26,6 +19,10 @@ The software must accept the following inputs:
 **Grading Capability**
 1. Software must compare each student answer sheet to the key answer sheet
 2. Software must calculate a grade/score and digitally write that score onto the respective student's answer sheet
+
+|Sample input Key|  Sample Input Student sheet | Sample Output|
+|---|---|---|
+|  ![image](https://github.com/slu-hackathon-2023/Get-Started/assets/113061137/432728d4-6018-4117-b237-18d21ab0a814)| ![image](https://github.com/slu-hackathon-2023/Get-Started/assets/113061137/032d8565-6caa-488a-8aba-086a9a6ac03a)| ![image](https://github.com/slu-hackathon-2023/Get-Started/assets/113061137/442a3d8d-94e7-4ad1-95b8-58f472d91b84) |
 
 **Scope**
 1. Core grading module only with the capabilities outlined in the requirements
@@ -50,18 +47,19 @@ We want to mainly see,
 
 Again, We want to evaluate how well you are able to analyze the problem, architect a solution, make progress on core functionality, and clearly present your approach.
 
+##  Open Source Disclaimer:
 
-## Option 2:
+Any solutions or intellectual property (code, architectures, algorithms, etc.) produced as part of this hackathon may be open sourced by the organizers after the event for further development by the community. By participating in this hackathon, you agree that any submissions may be published publicly under an open source license. This allows others to freely use, modify, and distribute your solution for nonprofit purposes. You will retain original author attribution for any public usages. Please let the organizers know if you have any concerns regarding open sourcing of your hackathon submission.
 
-Choose from Any of the following issues and create a PR to merge your branch into the main branch.
+<hr/>
 
-    - Issue 1: 
-    - Issue2: 
-    - Issue3:
-    - Issue 4:
-    - Issue 5:
-    - Issue 6:
-    - Issue 7:
-    - Issue 8:
-    - Issue 9:
-    - Issue 10:
+# How to submit?  
+
+1. One person from each team should visit [https://classroom.github.com/a/AcoX5wxz](https://classroom.github.com/a/AcoX5wxz)  
+2. Create a team  
+    <img width="709" alt="image" src="https://github.com/slu-hackathon-2023/Get-Started/assets/113061137/7c2db814-a4a0-4fc0-90d0-399dd335a6b8">
+3. Click on "Accept this assignment"  
+4. Refresh the page
+5. Everyone else on the team visits the same URL [https://classroom.github.com/a/AcoX5wxz](https://classroom.github.com/a/AcoX5wxz) and selects their team to accept the assignment.
+6. You can clone the repository to your local and start commiting your code,images and everything to your team repo.
+
